@@ -1,0 +1,63 @@
+:root{
+    --warna-orange:#FB6A27;
+    --warna-merah:gray;
+    --warna-kuning:yellow;
+    scroll-behavior: smooth;
+
+}
+
+.warna_orange{
+    color:var(--warna-orange);
+    
+}
+.oren{
+    color:#FB6A27;
+    font-weight: bold;
+}
+.img1{
+    margin-left: -90px;
+}
+
+.putih{
+    color: aliceblue;
+    font-weight: bold;
+}
+a{
+    color: #FB6A27;
+}
+.progress .progress-bar{
+    background-color: var(--warna-orange);
+}
+
+.hitam{
+    color:black;
+    font-weight: bold;
+}
+
+.bener{
+    background: url("kujangaja.jpeg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+.warnaa{
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.aja{
+    color: chocolate;
+    font-weight: bold;}
+
+.foto{
+    background: url("download\ \(1\).jpeg") 
+    no-repeat center center;
+    background-size: cover;
+    /* padding-top: 20%;
+    padding-bottom: 20%; */
+    color: white;
+
+}
+
